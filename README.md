@@ -34,7 +34,7 @@ faster codes with SIMD optimization
 ### **Meeting 4: MATLAB Auto Code Generation (Date: 7-12-2024)**  
 - **Discussion Points:**  
   - Faculty explained MATLAB's auto code generation capabilities and how they can be leveraged for C and SIMD-optimized code.  
-  - Assigned a MATLAB code for conversion to:  
+  - Assigned a MATLAB(Predict_sine) code for conversion to:  
     - Normal C code.  
     - SIMD-optimized C code.  
   - Task involved comparing the performance of the generated codes.  
