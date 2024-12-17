@@ -51,7 +51,7 @@ faster codes with SIMD optimization
 - **Action Items:**  
   - Address the identified issues and continue with the assigned tasks.
 
-### **Meeting 6: Updates on Issues and Resolution Plans (Date: YYYY-MM-DD)**  
+### **Meeting 6: Updates on Issues and Resolution Plans (Date: 17-12-2024)**  
 - **Discussion Points:**  
   - Shared updates with Dr. K. Sekvakumar regarding the issues faced in implementing SIMD-optimized code.  
   - Discussed my plans to resolve the identified issues and improve the code.  
