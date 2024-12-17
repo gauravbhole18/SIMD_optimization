@@ -51,6 +51,16 @@ faster codes with SIMD optimization
 - **Action Items:**  
   - Address the identified issues and continue with the assigned tasks.
 
+### **Meeting 6: Updates on Issues and Resolution Plans (Date: YYYY-MM-DD)**  
+- **Discussion Points:**  
+  - Shared updates with Dr. K. Sekvakumar regarding the issues faced in implementing SIMD-optimized code.  
+  - Discussed my plans to resolve the identified issues and improve the code.  
+- **Action Items:**  
+  - Work on the proposed solutions to address the current challenges.  
+  - Continue optimizing the code for better performance.  
+  - Prepare for the next progress review.  
+
+
 ## Contributors
 - **Faculty Mentor**: Dr. K Selvakumar
 - **Student Contributor**: Gaurav Bhole
